@@ -1,14 +1,24 @@
-# Social Media Analytics - Dark Modern Analytics Dashboard
+# Social Media Analytics Dashboard - Live Fetching Production Project
 
-โปรเจกต์แดชบอร์ดสรุปสถิติโซเชียลมีเดียสไตล์ Dark Theme สุดพรีเมียม (Facebook, TikTok, YouTube)
 
-## การติดตั้งและรันในเครื่อง
-1. `npm install`
-2. `npm run dev`
 
-## การอัปเดตขึ้น GitHub & Vercel
+โปรเจกต์แดชบอร์ดสรุปสถิติการเข้าถึงและการใช้งานโซเชียลมีเดีย (Facebook, TikTok, YouTube) สร้างด้วย React, Vite, Tailwind CSS และ Recharts
+
+
+
+## วิธีการติดตั้งและใช้งาน (Local Development)
+
+1. แตกไฟล์ ZIP นี้ลงในเครื่องคอมพิวเตอร์ของคุณ
+2. เปิด Terminal / Command Prompt ในโฟลเดอร์โปรเจกต์
+3. ติดตั้ง Dependencies:
+
 ```bash
-git add .
-git commit -m "Update to Dark Mode Modern Dashboard"
-git push origin main
-```
+   npm install
+   ```
+
+4. รันโปรเจกต์:
+
+```bash
+   npm run dev
+
+
