@@ -1,4 +1,4 @@
-# Social Pulse Hub - Dark Modern Analytics Dashboard
+# Social Media Analytics - Dark Modern Analytics Dashboard
 
 โปรเจกต์แดชบอร์ดสรุปสถิติโซเชียลมีเดียสไตล์ Dark Theme สุดพรีเมียม (Facebook, TikTok, YouTube)
 
